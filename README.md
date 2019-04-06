@@ -10,7 +10,7 @@
 ## Overview
 
 This is a repo of notebooks and interactive examples for http://em.geosci.xyz. The examples are based on code available in
-[em_examples](http://github.com/geoscixyz/em_examples). Numerical simulations are based on [SimPEG](http://simpeg.xyz). 
+[em_examples](http://github.com/geoscixyz/em_examples). Numerical simulations are based on [SimPEG](http://simpeg.xyz).
 
 The notebooks are available on
 - [Binder](https://mybinder.org/v2/gh/geoscixyz/em-apps/master?filepath=index.ipynb)
@@ -20,7 +20,7 @@ The notebooks are available on
 
 ## Launching the notebooks
 
-The notebooks can be run online through [Binder](#Binder) or [Azure notebooks](#Azure), or [downloaded and run locally](#Locally). 
+The notebooks can be run online through [Binder](#Binder) or [Azure notebooks](#Azure), or [downloaded and run locally](#Locally).
 
 ### Binder
 
@@ -74,7 +74,7 @@ To setup your software environment, we recommend you use the provided conda envi
 
 ```
 conda env create -f environment.yml
-source activate em-apps-environment
+source activate geosci-labs
 ```
 
 alternatively, you can install dependencies through pypi
@@ -131,7 +131,7 @@ Order of widgets:
 
 ### Setting up your environment
 
-- to develop code for these notebooks, please see https://github.com/geoscixyz/em_examples
+- to develop code for these notebooks, please see https://github.com/geoscixyz/geosci-labs
 - add the notebook name and path to the [index](index.ipynb)
 
 
