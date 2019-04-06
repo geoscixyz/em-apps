@@ -1,0 +1,71 @@
+# # index notebook
+# notebooks/index.ipynb
+
+# DC resistivity and induced polarization
+notebooks/dcip/DC_SurveyDataInversion.ipynb
+notebooks/dcip/DC_Building_Pseudosections.ipynb
+notebooks/dcip/DC_Inversions.ipynb
+notebooks/dcip/DCIP_2D_Overburden_Pseudosections.ipynb
+notebooks/dcip/DC_Cylinder_2D.ipynb
+notebooks/dcip/DC_Plate2_5D.ipynb
+notebooks/dcip/DC_Layer_Cylinder_2_5D.ipynb
+notebooks/dcip/DC_Layer_Cylinder_2D.ipynb
+notebooks/dcip/DC_LayeredEarth.ipynb
+notebooks/dcip/DC_Overburden_2_5D.ipynb
+notebooks/dcip/DC_Sphere_Constant_E.ipynb
+notebooks/dcip/DC_Plate_2D.ipynb
+notebooks/dcip/PhyProp_ColeCole.ipynb
+
+# Electromagnetics
+notebooks/em/EM_Pipeline.ipynb
+notebooks/em/FDEM_MagneticDipole_Wholespace.ipynb
+notebooks/em/TDEM_InductiveSource.ipynb
+notebooks/em/EM_EM31.ipynb
+notebooks/em/MarineCSEM_LayeredEarth.ipynb
+notebooks/em/EM_ThreeLoopModel.ipynb
+notebooks/em/FDEM_Planewave_Reflection.ipynb
+notebooks/em/FDEM_Planewave_Wholespace.ipynb
+notebooks/em/TDEM_UXO.ipynb
+notebooks/em/FDEM_Inductive_Sphere.ipynb
+notebooks/em/FDEM_VMD_Sphere.ipynb
+notebooks/em/FDEM_ElectricDipole_Wholespace.ipynb
+notebooks/em/TDEM_Planewave_Wholespace.ipynb
+notebooks/em/TDEM_Groundedsource.ipynb
+notebooks/em/TDEM_HorizontalLoop_LayeredEarth.ipynb
+notebooks/em/TDEM_HorizontalLoop_Sphere.ipynb
+notebooks/em/FDEM_VMD_LayeredEarth.ipynb
+notebooks/em/InductionRLcircuit_Harmonic.ipynb
+notebooks/em/TDEM_MagneticDipole_Wholespace.ipynb
+notebooks/em/InductionRLcircuit_Transient.ipynb
+notebooks/em/FDEM_ThreeLoopModel.ipynb
+notebooks/em/MT_LayeredEarth.ipynb
+notebooks/em/TDEM_ElectricDipole_Wholespace.ipynb
+
+# Ground Penetrating Radar
+# notebooks/gpr/GPR_Lab6_FitData.ipynb
+# notebooks/gpr/GPR_TBL4_DOI_Resolution.ipynb
+notebooks/gpr/GPR_Attenuation.ipynb
+
+# Inversion
+notebooks/inversion/LinearInversion.ipynb
+notebooks/inversion/2D-LinearInversion-Crosswell-Tomorgraphy.ipynb
+
+# # Magnetics
+# notebooks/mag/MagneticPrismApplet.ipynb
+# notebooks/mag/MagneticDipoleApplet.ipynb
+# notebooks/mag/Mag_FitProfile.ipynb
+# notebooks/mag/Mag_Induced2D.ipynb
+# notebooks/mag/Mag_Dipole.ipynb
+
+# # Seismic
+# notebooks/seismic/SeismicApplet.ipynb
+# notebooks/seismic/Seis_NMO.ipynb
+# notebooks/seismic/Seis_VerticalResolution.ipynb
+# notebooks/seismic/Seis_Refraction.ipynb
+# notebooks/seismic/Seis_Reflection.ipynb
+
+
+
+
+
+
