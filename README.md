@@ -103,35 +103,10 @@ If you run into problems or bugs, please let us know by [creating an issue](http
 
 ## For Contributors
 
-### Notebook Structure
+We are glad you are interested in contributing! 
 
-Each notebook has the following structure
+This repo tracks [geosci-labs](https://github.com/geoscixyz/geosci-labs). To contribute code, ideas or bug-fixes, please head over to the [geosci-labs](https://github.com/geoscixyz/geosci-labs) repository. 
 
-- **Purpose** : Motivation and key concepts addressed by the notebook
-- **Setup** : Overview of the relevant parameters in the problem
-- **Questions** : Guiding questions related to the purpose
-- **App** : interactive visualizations
-- **Explore** : further questions that can be explored with the app
 
-### Conventions
-
-For colormaps (http://matplotlib.org/examples/color/colormaps_reference.html)
-- **fields** are plotted with the `viridis`
-- **potentials** are plotted with `viridis`
-- **sensitivities** are plotted with `viridis`
-- **physical properties** are plotted with `jet`
-- **charges** are plotted with `RdBu`
-
-Order of widgets:
-
-- geometry of survey
-- geomerty target
-- physical properties of target
-- view options
-
-### Setting up your environment
-
-- to develop code for these notebooks, please see https://github.com/geoscixyz/geosci-labs
-- add the notebook name and path to the [index](index.ipynb)
 
 
