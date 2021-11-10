@@ -2,19 +2,31 @@ name: geosci-labs
 
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - numpy
   - scipy
+  - scikit-learn<1.0
+  - scooby
   - matplotlib
   - Pillow
   - ipywidgets>=0.6.0
   - requests
   - mkl
+  - simpeg<0.14
+  - discretize<0.6
+  - empymod<2.0
+  - pymatsolver<0.2
+  - deepdish
+  - mamba
+  - ipython
+  - jupyter
+  - pip
   - pip:
-    - pymatsolver
-    - discretize
-    - deepdish
-    - SimPEG
-    - empymod
     - git+https://github.com/geoscixyz/geosci-labs
+
+# mamba env create python=3.7 -f environment.yml      # Create env
+# conda activate geosci-labs                          # Activate env
+# ipython kernel install --name "geosci-labs" --user  # Register kernel
+
+# conda env remove --name geosci-labs                 # Remove env
+# jupyter kernelspec uninstall geosci-labs            # Remove kernel
