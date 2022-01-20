@@ -1,7 +1,7 @@
 **[overview](#overview) | [installation](#installation) | [running the notebooks](#running-the-notebooks) | [issues](#issues) | [contributing](#for-contributors)**
 
 # em-apps
-
+[![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoscixyz/em-apps/main?filepath=notebooks%2Findex.ipynb)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
 ## Note
