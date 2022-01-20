@@ -23,3 +23,10 @@ dependencies:
   - SimPEG=0.15.0
   - pip:
     - git+https://github.com/geoscixyz/geosci-labs
+
+# mamba env create -f environment.yml      # Create env
+# conda activate geosci-labs                          # Activate env
+# ipython kernel install --name "geosci-labs" --user  # Register kernel
+
+# conda env remove --name geosci-labs                 # Remove env
+# jupyter kernelspec uninstall geosci-labs            # Remove kernel
