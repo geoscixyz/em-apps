@@ -27,7 +27,7 @@ This is a repo of notebooks and interactive examples for http://em.geosci.xyz. T
 
 ### Installation
 
-To run them locally, you will need to have python installed, preferably through [anaconda](https://www.anaconda.com/download/).
+To run them locally, you will need to have python installed, preferably through [miniconda](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links) or [mamba forge](https://mamba.readthedocs.io/en/latest/installation.html).
 
 You can then clone this repository. From a command line, run
 
@@ -44,8 +44,8 @@ cd em-apps
 To setup your software environment, we recommend you use the provided conda environment
 
 ```
-conda env create python=3.7 -f environment.yml
-source activate geosci-labs
+conda env create -f environment.yml
+conda activate geosci-labs
 ```
 
 You can then launch Jupyter
