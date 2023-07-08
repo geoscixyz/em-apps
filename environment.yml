@@ -2,7 +2,6 @@ name: geosci-labs
 
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - cvxopt
   - deepdish
